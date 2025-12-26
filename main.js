@@ -19,7 +19,7 @@ window.onscroll = () => {
     search.classList.remove('active');
 }
 
-
+  
 let header = document.querySelector('header');
 
 window.addEventListener('scroll', () => {
