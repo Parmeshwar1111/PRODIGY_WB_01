@@ -6,7 +6,7 @@ document.querySelector('#search-icon').onclick = () => {
 }
  
 
-
+ 
 let navbar = document.querySelector('.navbar')
 
 document.querySelector('#menu-icon').onclick = () => {
