@@ -5,7 +5,7 @@ document.querySelector('#search-icon').onclick = () => {
     navbar.classList.remove('active');
 }
  
-
+         
  
 let navbar = document.querySelector('.navbar')
        
